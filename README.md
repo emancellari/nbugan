@@ -28,10 +28,10 @@ Create a Python environment with the following required libraries and versions:
 
 The default experiment uses the following setup:
 
-- **Clean image:** `baseball3.JPEG`  
-- **Image resolution:** `(2336 × 3504)`  
-- **Target category:** `ladle`  
-- **ImageNet class index:** `421`  
+- **Clean image:** `11.JPEG`  
+- **Image resolution:**  
+- **Target category:** `rhinoceros_beetle`  
+- **ImageNet class index:** `306`  
 - **Target label confidence:** `0.9`  
 - **Attacked model:** Pre-trained **ResNet-50 (ImageNet)**  
 - **Perturbation constraint:**  
