@@ -29,7 +29,7 @@ Create a Python environment with the following required libraries and versions:
 The default experiment uses the following setup:
 
 - **Clean image:** `11.JPEG`  
-- **Image resolution:** '374x500' 
+- **Image resolution:** `374x500`
 - **Target category:** `rhinoceros_beetle`  
 - **ImageNet class index:** `306`  
 - **Target label confidence:** `0.9`  
