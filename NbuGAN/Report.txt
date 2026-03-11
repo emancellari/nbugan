@@ -1,3 +1,2 @@
-baseball3.JPEG 	ladle 		0.9077 		138 		 366.2
 11.JPEG 	rhinoceros_beetle 		0.9077 		104 		 328.9
 11.JPEG 	rhinoceros_beetle 		0.9111 		111 		 308.5
